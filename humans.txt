@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    suhas -- engineer -- <twitter>
 
 # THANKS
 
-    <name>
+    suhas
 
 # TECHNOLOGY COLOPHON
 
