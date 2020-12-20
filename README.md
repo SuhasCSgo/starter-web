@@ -7,7 +7,7 @@ Sample website with plenty of files for demos
 ##express
 
 ##How To Contribute
-
+Please fork this repository and then issue pull rquests for review
 
 ##copywrite 
 
