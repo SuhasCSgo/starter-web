@@ -13,4 +13,4 @@ Please fork this repository and then issue pull rquests for review
 
 ##copywrite 
 
-2014 git.training
+2014 git.training. All rights reserved
